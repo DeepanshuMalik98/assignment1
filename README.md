@@ -10,3 +10,10 @@ Hi.
 5. Create a pull request from this new branch to the main branch
 6. Review and merge the pull request
 7. Verify if the main branch has the commits from the other branch
+
+## Current branches
+- main
+A- feature (added)
+
+## Resolve merge conflicts
+- Resolve feature branch conflicts
